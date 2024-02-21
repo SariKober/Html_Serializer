@@ -1,0 +1,85 @@
+Y:\Groups\Group_3\קצנלבוגן  יהודית\prakticode2\prakticode2\bin\Debug\net6.0\prakticode2.exe
+Y:\Groups\Group_3\קצנלבוגן  יהודית\prakticode2\prakticode2\bin\Debug\net6.0\prakticode2.deps.json
+Y:\Groups\Group_3\קצנלבוגן  יהודית\prakticode2\prakticode2\bin\Debug\net6.0\prakticode2.runtimeconfig.json
+Y:\Groups\Group_3\קצנלבוגן  יהודית\prakticode2\prakticode2\bin\Debug\net6.0\prakticode2.dll
+Y:\Groups\Group_3\קצנלבוגן  יהודית\prakticode2\prakticode2\bin\Debug\net6.0\prakticode2.pdb
+Y:\Groups\Group_3\קצנלבוגן  יהודית\prakticode2\prakticode2\obj\Debug\net6.0\prakticode2.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\קצנלבוגן  יהודית\prakticode2\prakticode2\obj\Debug\net6.0\prakticode2.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\קצנלבוגן  יהודית\prakticode2\prakticode2\obj\Debug\net6.0\prakticode2.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\קצנלבוגן  יהודית\prakticode2\prakticode2\obj\Debug\net6.0\prakticode2.AssemblyInfo.cs
+Y:\Groups\Group_3\קצנלבוגן  יהודית\prakticode2\prakticode2\obj\Debug\net6.0\prakticode2.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\קצנלבוגן  יהודית\prakticode2\prakticode2\obj\Debug\net6.0\prakticode2.dll
+Y:\Groups\Group_3\קצנלבוגן  יהודית\prakticode2\prakticode2\obj\Debug\net6.0\refint\prakticode2.dll
+Y:\Groups\Group_3\קצנלבוגן  יהודית\prakticode2\prakticode2\obj\Debug\net6.0\prakticode2.pdb
+Y:\Groups\Group_3\קצנלבוגן  יהודית\prakticode2\prakticode2\obj\Debug\net6.0\prakticode2.genruntimeconfig.cache
+Y:\Groups\Group_3\קצנלבוגן  יהודית\prakticode2\prakticode2\obj\Debug\net6.0\ref\prakticode2.dll
+Y:\Groups\Group_3\קצנלבוגן  יהודית\prakticode2\prakticode2\bin\Debug\net6.0\jsons\HtmlTags.json
+Y:\Groups\Group_3\קצנלבוגן  יהודית\prakticode2\prakticode2\bin\Debug\net6.0\jsons\HtmlVoidTags.json
+Y:\Groups\Group_3\קצנלבוגן  יהודית\פרקטיקוד\prakticode2\prakticode2\bin\Debug\net6.0\prakticode2.exe
+Y:\Groups\Group_3\קצנלבוגן  יהודית\פרקטיקוד\prakticode2\prakticode2\bin\Debug\net6.0\jsons\HtmlTags.json
+Y:\Groups\Group_3\קצנלבוגן  יהודית\פרקטיקוד\prakticode2\prakticode2\bin\Debug\net6.0\jsons\HtmlVoidTags.json
+Y:\Groups\Group_3\קצנלבוגן  יהודית\פרקטיקוד\prakticode2\prakticode2\bin\Debug\net6.0\prakticode2.deps.json
+Y:\Groups\Group_3\קצנלבוגן  יהודית\פרקטיקוד\prakticode2\prakticode2\bin\Debug\net6.0\prakticode2.runtimeconfig.json
+Y:\Groups\Group_3\קצנלבוגן  יהודית\פרקטיקוד\prakticode2\prakticode2\bin\Debug\net6.0\prakticode2.dll
+Y:\Groups\Group_3\קצנלבוגן  יהודית\פרקטיקוד\prakticode2\prakticode2\bin\Debug\net6.0\prakticode2.pdb
+Y:\Groups\Group_3\קצנלבוגן  יהודית\פרקטיקוד\prakticode2\prakticode2\obj\Debug\net6.0\prakticode2.csproj.AssemblyReference.cache
+Y:\Groups\Group_3\קצנלבוגן  יהודית\פרקטיקוד\prakticode2\prakticode2\obj\Debug\net6.0\prakticode2.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_3\קצנלבוגן  יהודית\פרקטיקוד\prakticode2\prakticode2\obj\Debug\net6.0\prakticode2.AssemblyInfoInputs.cache
+Y:\Groups\Group_3\קצנלבוגן  יהודית\פרקטיקוד\prakticode2\prakticode2\obj\Debug\net6.0\prakticode2.AssemblyInfo.cs
+Y:\Groups\Group_3\קצנלבוגן  יהודית\פרקטיקוד\prakticode2\prakticode2\obj\Debug\net6.0\prakticode2.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_3\קצנלבוגן  יהודית\פרקטיקוד\prakticode2\prakticode2\obj\Debug\net6.0\prakticode2.dll
+Y:\Groups\Group_3\קצנלבוגן  יהודית\פרקטיקוד\prakticode2\prakticode2\obj\Debug\net6.0\refint\prakticode2.dll
+Y:\Groups\Group_3\קצנלבוגן  יהודית\פרקטיקוד\prakticode2\prakticode2\obj\Debug\net6.0\prakticode2.pdb
+Y:\Groups\Group_3\קצנלבוגן  יהודית\פרקטיקוד\prakticode2\prakticode2\obj\Debug\net6.0\prakticode2.genruntimeconfig.cache
+Y:\Groups\Group_3\קצנלבוגן  יהודית\פרקטיקוד\prakticode2\prakticode2\obj\Debug\net6.0\ref\prakticode2.dll
+C:\Users\The user\Downloads\prakticode2\prakticode2\prakticode2\bin\Debug\net6.0\prakticode2.exe
+C:\Users\The user\Downloads\prakticode2\prakticode2\prakticode2\bin\Debug\net6.0\jsons\HtmlTags.json
+C:\Users\The user\Downloads\prakticode2\prakticode2\prakticode2\bin\Debug\net6.0\jsons\HtmlVoidTags.json
+C:\Users\The user\Downloads\prakticode2\prakticode2\prakticode2\bin\Debug\net6.0\prakticode2.deps.json
+C:\Users\The user\Downloads\prakticode2\prakticode2\prakticode2\bin\Debug\net6.0\prakticode2.runtimeconfig.json
+C:\Users\The user\Downloads\prakticode2\prakticode2\prakticode2\bin\Debug\net6.0\prakticode2.dll
+C:\Users\The user\Downloads\prakticode2\prakticode2\prakticode2\bin\Debug\net6.0\prakticode2.pdb
+C:\Users\The user\Downloads\prakticode2\prakticode2\prakticode2\obj\Debug\net6.0\prakticode2.csproj.AssemblyReference.cache
+C:\Users\The user\Downloads\prakticode2\prakticode2\prakticode2\obj\Debug\net6.0\prakticode2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Downloads\prakticode2\prakticode2\prakticode2\obj\Debug\net6.0\prakticode2.AssemblyInfoInputs.cache
+C:\Users\The user\Downloads\prakticode2\prakticode2\prakticode2\obj\Debug\net6.0\prakticode2.AssemblyInfo.cs
+C:\Users\The user\Downloads\prakticode2\prakticode2\prakticode2\obj\Debug\net6.0\prakticode2.csproj.CoreCompileInputs.cache
+C:\Users\The user\Downloads\prakticode2\prakticode2\prakticode2\obj\Debug\net6.0\prakticode2.dll
+C:\Users\The user\Downloads\prakticode2\prakticode2\prakticode2\obj\Debug\net6.0\refint\prakticode2.dll
+C:\Users\The user\Downloads\prakticode2\prakticode2\prakticode2\obj\Debug\net6.0\prakticode2.pdb
+C:\Users\The user\Downloads\prakticode2\prakticode2\prakticode2\obj\Debug\net6.0\prakticode2.genruntimeconfig.cache
+C:\Users\The user\Downloads\prakticode2\prakticode2\prakticode2\obj\Debug\net6.0\ref\prakticode2.dll
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2 - עותק\prakticode2\bin\Debug\net6.0\prakticode2.exe
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2 - עותק\prakticode2\bin\Debug\net6.0\jsons\HtmlTags.json
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2 - עותק\prakticode2\bin\Debug\net6.0\jsons\HtmlVoidTags.json
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2 - עותק\prakticode2\bin\Debug\net6.0\prakticode2.deps.json
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2 - עותק\prakticode2\bin\Debug\net6.0\prakticode2.runtimeconfig.json
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2 - עותק\prakticode2\bin\Debug\net6.0\prakticode2.dll
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2 - עותק\prakticode2\bin\Debug\net6.0\prakticode2.pdb
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2 - עותק\prakticode2\obj\Debug\net6.0\prakticode2.csproj.AssemblyReference.cache
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2 - עותק\prakticode2\obj\Debug\net6.0\prakticode2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2 - עותק\prakticode2\obj\Debug\net6.0\prakticode2.AssemblyInfoInputs.cache
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2 - עותק\prakticode2\obj\Debug\net6.0\prakticode2.AssemblyInfo.cs
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2 - עותק\prakticode2\obj\Debug\net6.0\prakticode2.csproj.CoreCompileInputs.cache
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2 - עותק\prakticode2\obj\Debug\net6.0\prakticode2.dll
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2 - עותק\prakticode2\obj\Debug\net6.0\refint\prakticode2.dll
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2 - עותק\prakticode2\obj\Debug\net6.0\prakticode2.pdb
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2 - עותק\prakticode2\obj\Debug\net6.0\prakticode2.genruntimeconfig.cache
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2 - עותק\prakticode2\obj\Debug\net6.0\ref\prakticode2.dll
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2!\prakticode2\bin\Debug\net6.0\prakticode2.exe
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2!\prakticode2\bin\Debug\net6.0\jsons\HtmlTags.json
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2!\prakticode2\bin\Debug\net6.0\jsons\HtmlVoidTags.json
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2!\prakticode2\bin\Debug\net6.0\prakticode2.deps.json
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2!\prakticode2\bin\Debug\net6.0\prakticode2.runtimeconfig.json
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2!\prakticode2\bin\Debug\net6.0\prakticode2.dll
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2!\prakticode2\bin\Debug\net6.0\prakticode2.pdb
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2!\prakticode2\obj\Debug\net6.0\prakticode2.csproj.AssemblyReference.cache
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2!\prakticode2\obj\Debug\net6.0\prakticode2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2!\prakticode2\obj\Debug\net6.0\prakticode2.AssemblyInfoInputs.cache
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2!\prakticode2\obj\Debug\net6.0\prakticode2.AssemblyInfo.cs
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2!\prakticode2\obj\Debug\net6.0\prakticode2.csproj.CoreCompileInputs.cache
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2!\prakticode2\obj\Debug\net6.0\prakticode2.dll
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2!\prakticode2\obj\Debug\net6.0\refint\prakticode2.dll
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2!\prakticode2\obj\Debug\net6.0\prakticode2.pdb
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2!\prakticode2\obj\Debug\net6.0\prakticode2.genruntimeconfig.cache
+C:\Users\The user\Downloads\prakticode2\‏‏prakticode2!\prakticode2\obj\Debug\net6.0\ref\prakticode2.dll
